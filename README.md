@@ -7,7 +7,7 @@ Web Design | Game Developer | App Design
 creativity and technical execution. Chapan is proficient in a variety of web development technologies, including HTML, CSS, JavaScript, and Svelet. He is also an experienced game developer with a strong understanding of game engines such as Bevy Engine. Chapan is passionate about sharing his knowledge and helping others succeed. He is a certified instructor and has taught web development and game development courses to students of all levels. Chapan is also an active member of the open-source community and has contributed to several open-source projects. Here are some of Chapan's key skills: Web design and development Game development App design Communication and problem-solving Teaching and mentoring
 
 *   🌍  I'm based in Islamic Republic of Iran
-*   🧠  I am learning game development and web design
+*   🧠  I'm learning game development and web design
 *   🤝  I'm open to collaborating on Svelte for web and app design and bevy for make the game
 *   ⚡  Actually, I'm 3D designer.
 
